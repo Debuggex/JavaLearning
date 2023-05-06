@@ -1,6 +1,4 @@
-import java.util.List;
-
-public class Solution {
+public class PrimitiveTypes {
 
     public static void main(String[] args) {
         // decimal values -> 5.6, 8.9
